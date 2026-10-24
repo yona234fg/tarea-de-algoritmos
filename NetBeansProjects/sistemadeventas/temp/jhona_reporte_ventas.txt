@@ -1,0 +1,4 @@
+Reporte de Ventas
+-----------------
+Total Vendido: 1500.0
+Ventas superiores a Q500: 0
